@@ -1,4 +1,4 @@
-# 🚕 Análise de Corridas — SQL
+# 🚕 Análise de Corridas — SQL (Em desenvolvimento)
 
 Projeto de análise de dados de corridas em banco **SQLite**, utilizando consultas SQL para responder perguntas de negócio.  
 
