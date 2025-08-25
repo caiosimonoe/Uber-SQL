@@ -48,7 +48,7 @@ Dataset público do Kaggle: [Uber Ride Analytics Dataset](https://www.kaggle.com
 
 ## 🧰 Ferramentas Utilizadas  
 - Banco: **SQLite**  
-- Ambiente: **DBeaver | VS Code | SQLite CLI**  
+- Ambiente: **DBeaver | SQLITE**  
 - Dataset: **Kaggle**  
 
 ---
